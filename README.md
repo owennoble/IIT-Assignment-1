@@ -1,2 +1,2 @@
 # IIT Repository 
-A Respoitory for Assignment 1 of IIT
+A Repository for Assignment 1 of IIT

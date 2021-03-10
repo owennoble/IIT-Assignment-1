@@ -1,2 +1,2 @@
-# hello-world
-A test repository
+# IIT Repository 
+A Respoitory for Assignment 1 of IIT

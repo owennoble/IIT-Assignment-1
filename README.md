@@ -1,2 +1,4 @@
 # IIT Repository 
-A Repository for Assignment 1 of IIT
+A1 upload.
+Owen Noble s3780268
+In this Repository, you will find all my work for A1 Intro to IIT.
